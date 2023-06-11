@@ -1,2 +1,2 @@
-# Final-Project AI
-Tugas FP Kecerdasan Buatan Klasifikasi Ikan menggunakan CNN 
+# Final-Project AI D081 Kelompok 14
+Klasifikasi Ikan menggunakan CNN 
